@@ -1,0 +1,39 @@
+_repo: A-Treatise-on-the-Plague-and-Yellow-Fever-With-an-Appendix-containing-histories-of-the-plague__67453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tytler, James
+    aliases:
+    - Tytler, J. (James)
+    - Tyler, James
+    birthdate: 1745
+    deathdate: 1804
+    gutenberg_agent_id: '54277'
+    url: http://www.gutenberg.org/2009/agents/54277
+    wikipedia: https://en.wikipedia.org/wiki/James_Tytler
+description: ''
+gutenberg_issued: '2022-02-21'
+identifiers:
+  gutenberg: '67453'
+  lccn: 07029770
+language: en
+pgterms:marc904: https://archive.org/details/2575050R.nlm.nih.gov
+pgterms:marc905: 20200421100637tytler
+pgterms:marc906: '1799'
+pgterms:marc907: US
+production_note: Thiers Halliwell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Printed by Joshua Cushing, for B.B. Macanulty,1799.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Yellow fever -- Early works to 1800'
+- !lcsh 'Plague -- Early works to 1800'
+- GITenberg
+title: "A Treatise on the Plague and Yellow Fever\r\nWith an Appendix, containing\
+  \ histories of the plague at Athens in the time of the Peloponnesian War; at Constantinople\
+  \ in the time of Justinian; at London in 1665; at Marseilles in 1720"
+url: http://www.gutenberg.org/ebooks/67453
