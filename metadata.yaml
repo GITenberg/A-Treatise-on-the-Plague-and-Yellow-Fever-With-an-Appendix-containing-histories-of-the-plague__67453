@@ -1,5 +1,8 @@
 _repo: A-Treatise-on-the-Plague-and-Yellow-Fever-With-an-Appendix-containing-histories-of-the-plague__67453
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67453-h/images/cover.jpg
 creator:
   author:
     agent_name: Tytler, James
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54277
     wikipedia: https://en.wikipedia.org/wiki/James_Tytler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67453#A-Treatise-on-the-Plague-and-Yellow-Fever-With-an-Appendix-containing-histories-of-the-plague_
 gutenberg_issued: '2022-02-21'
 identifiers:
   gutenberg: '67453'
